@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Hello world!");
         User user = new User();
         System.out.println(user);
+        System.out.println(1);
     }
 }
