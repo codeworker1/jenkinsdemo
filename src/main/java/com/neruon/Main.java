@@ -9,5 +9,6 @@ public class Main {
         User user = new User();
         System.out.println(user);
         System.out.println(1);
+        System.out.println("第二个版本");
     }
 }
